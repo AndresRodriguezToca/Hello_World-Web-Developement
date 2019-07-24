@@ -1,3 +1,3 @@
-Web-Developement
+Web-Development
 
-Simple use of Boostrap 4 and HTML,CSS and JS.
+Simple use of Bootstrap 4 and HTML,CSS and JS.
