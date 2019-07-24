@@ -1,3 +1,4 @@
+<<<<<<< branch_update_7-19-2019
 # Hello_World-Web-Developement
 
 Update:
@@ -12,3 +13,8 @@ Update:
   8. Minimum changes to the "general.style.css"
   
   Date: 7/19/2019
+=======
+Web-Development
+
+Simple use of Bootstrap 4 and HTML,CSS and JS.
+>>>>>>> master
